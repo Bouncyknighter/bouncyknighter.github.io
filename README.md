@@ -1,90 +1,39 @@
-<a href="https://jekyll-themes.com">
-<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
+Sure, here is the resume edited to match the exact format from the template:
 
-# Orbit
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
-> Visit [her website](http://themes.3rdwavemedia.com/) for more themes.
+Profile
+tagline: Blockchain & Web3 Developer
+name: Your Name
+email: youremail@example.com
 
-I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
+Skills
+Python, Solidity, Web3 Frameworks, Cryptocurrency Investing, Project Management, Cross-functional Leadership
 
-<table>
-  <tr>
-    <th>Desktop</th>
-    <th>Mobile</th>
-  </tr>
-  <tr>
-    <td>
-        <img src="https://online-cv.webjeda.com/assets/images/desktop.png?raw=true" width="600"/>
-    </td>
-    <td>
-        <img src="https://online-cv.webjeda.com/assets/images/mobile.png?raw=true" width="250"/>
-    </td>
-  </tr>
-</table>
+Experience
+Project Lead - BitMongol Token (2019-2021)
 
-## Installation
+Led dev team to launch cryptocurrency project and ICO raising over $5M. Created token model and managed economics. Engaged community of supporters and investors.
 
-* [Fork](https://github.com/sharu725/online-cv/fork) the repository;
-* Go to settings and set master branch as Github Pages source;
-* Your new site should be ready at `https://<username>.github.io/online-cv/`;
-* Printable version of the site can be found at `https://<username>.github.io/online-cv/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
+CEO - Real Estate Company (2015-2018)
 
-Change all the details from one place: `_data/data.yml`.
+Managed team of 25+ agents and optimized sales strategy. Oversaw marketing, HR, operations, budgeting.
 
-### To preview/edit locally with docker
+Other Roles (2010-2015)
 
-```sh
-docker-compose up
-```
+Crypto Investor, Backend Developer, English Teacher
 
-*docker-compose.yml* file is used to create a container that is reachable under <http://localhost:4000>.
-Changes *_data/data.yml* will be visible after a while.
+Education
+Blockchain Development Courses, Python and Data Science Certificates, Business Administration Coursework
 
-### Local machine
+Projects
+BitMongol Token - Successful crypto token project with $5M+ raised
 
-* Get the repo into your machine 
+Real Estate Site - Developed training portal and resources for agents
 
-```bash
-git clone https://github.com/sharu725/online-cv.git
-```
+Contact Info
+Email: [your.email@example.com]
 
-* Install required ruby gems
+Phone: [your phone number]
 
-```bash
-bundle install
-```
+LinkedIn: [Your LinkedIn URL]
 
-* Serve the site locally
-
-```bash
-bundle exec jekyll serve
-```
-
-* Navigate to `http://localhost:4000`
-
-
-## Skins
-
-There are 6 color schemes available:
-
-| Blue | Turquoise | Green |
-|---------|---------|---------|
-| <img src="https://online-cv.webjeda.com/assets/images/blue.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/turquoise.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/green.jpg" width="300"/> |
-
-| Berry | Orange | Ceramic |
-|---------|---------|---------|
-| <img src="https://online-cv.webjeda.com/assets/images/berry.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/orange.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/ceramic.jpg" width="300"/> |
-
-## Credits
-
-Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
-
-Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
-
-Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
-
+Let me know if you would like me to modify or add anything. I aimed to follow the same format from the template while using the details you provided.
