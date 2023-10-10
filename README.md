@@ -1,39 +1,23 @@
-Sure, here is the resume edited to match the exact format from the template:
+### Hi there 👋, my name is Misheel
+#### This is my CV
+![This is my CV](https://github.com/Bouncyknighter/bouncyknighter.github.io/blob/master/Banners.png)
 
-Profile
-tagline: Blockchain & Web3 Developer
-name: Your Name
-email: youremail@example.com
+Experienced real estate, investments, and cryptocurrency professional with over 7 years in the blockchain space. Led the development of BitMongol (BTM) token and platform as Project Lead. Offering extensive skills in Python, Solidity, web3 frameworks as well as leadership and strategic expertise. Contributed to private crypto investment groups and projects. Transitioning into new web3 opportunities leveraging blockchain knowledge.
 
-Skills
-Python, Solidity, Web3 Frameworks, Cryptocurrency Investing, Project Management, Cross-functional Leadership
+Skills: HTML/CSS/PYTHON/JS/CLOUD/DATA SCIENCE/ SOLIDITY
 
-Experience
-Project Lead - BitMongol Token (2019-2021)
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: email: Misheel@gebifirm.info 
 
-Led dev team to launch cryptocurrency project and ICO raising over $5M. Created token model and managed economics. Engaged community of supporters and investors.
 
-CEO - Real Estate Company (2015-2018)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Bouncyknighter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/MishelNominGebi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](personal.gebifirm.info)  
 
-Managed team of 25+ agents and optimized sales strategy. Oversaw marketing, HR, operations, budgeting.
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-Other Roles (2010-2015)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Bouncyknighter)  
 
-Crypto Investor, Backend Developer, English Teacher
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/Bouncyknighter)  
 
-Education
-Blockchain Development Courses, Python and Data Science Certificates, Business Administration Coursework
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Bouncyknighter)  
 
-Projects
-BitMongol Token - Successful crypto token project with $5M+ raised
-
-Real Estate Site - Developed training portal and resources for agents
-
-Contact Info
-Email: [your.email@example.com]
-
-Phone: [your phone number]
-
-LinkedIn: [Your LinkedIn URL]
-
-Let me know if you would like me to modify or add anything. I aimed to follow the same format from the template while using the details you provided.
+![Profile views](https://gpvc.arturio.dev/https://github.com/Bouncyknighter)  
