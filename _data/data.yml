@@ -3,46 +3,54 @@ sidebar:
     about: False
     education: True
 
-    # Profile information
-    name: Your Name
-    tagline: Blockchain & Web3 Developer
-    avatar: profile.png
+Profile information
+name: Mishel Nomindari    
 
-    # Sidebar links
-    email: youremail@example.com
-    phone: [your phone number]
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: 
-    linkedin: [Your LinkedIn URL]
-    xing:
-    github:
-    telegram:
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow:
-    codewars:
-    goodreads:
-    pdf:
+tagline: Blockchain & Web3 Developer
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+avatar: profile.png
 
-        - item: Snowboarding
-          link:
+Sidebar links
+email: misheel@gebifirm.info
+phone: +976 96141447
+timezone: Asia/Ulaanbaatar
+citizenship: Mongolian
+website: personal.gebifirm.info
+linkedin: www.linkedin.com/in/MishelNominGebi
+xing:
 
-        - item: Cooking
-          link:
+github: https://github.com/Bouncyknighter
 
+telegram: @bitmongol
+gitlab:
+bitbucket:
+twitter:
+stack-overflow:
+codewars:
+goodreads:
+pdf:
+languages:
+title: Languages
+
+info:
+
+idiom: English
+
+level: Fluent
+
+idiom: Mongolian
+
+level: Native
+
+interests:
+
+title: Interests
+
+info:
+
+item: Programming
+item: Crypto Investing
+item: Rugby
 career-profile:
     title: Career Profile
     summary: |
