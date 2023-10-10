@@ -3,54 +3,46 @@ sidebar:
     about: False
     education: True
 
-Profile information
-name: Mishel Nomindari    
+    # Profile information
+    name: Misheel Nomin
+    tagline: Blockchain & Web3 Developer
+    avatar: profile.png
 
-tagline: Blockchain & Web3 Developer
+    # Sidebar links
+    email: misheel@gebifirm.info
+    phone: 
+    timezone: Asia/Beijing
+    citizenship:
+    website: 
+    linkedin: https://www.linkedin.com/in/MishelNominGebi/
+    xing:
+    github: https://github.com/Bouncyknighter/
+    telegram: @bitmongol
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow:
+    codewars:
+    goodreads:
+    pdf:
 
-avatar: profile.png
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+    interests:
+      title: Interests
+      info:
+        - item: Climbing
+          link:
 
-Sidebar links
-email: misheel@gebifirm.info
-phone: +976 96141447
-timezone: Asia/Ulaanbaatar
-citizenship: Mongolian
-website: personal.gebifirm.info
-linkedin: www.linkedin.com/in/MishelNominGebi
-xing:
+        - item: Snowboarding
+          link:
 
-github: https://github.com/Bouncyknighter
+        - item: Cooking
+          link:
 
-telegram: @bitmongol
-gitlab:
-bitbucket:
-twitter:
-stack-overflow:
-codewars:
-goodreads:
-pdf:
-languages:
-title: Languages
-
-info:
-
-idiom: English
-
-level: Fluent
-
-idiom: Mongolian
-
-level: Native
-
-interests:
-
-title: Interests
-
-info:
-
-item: Programming
-item: Crypto Investing
-item: Rugby
 career-profile:
     title: Career Profile
     summary: |
@@ -97,6 +89,47 @@ experiences:
           - Crypto Investor
           - Backend Developer
           - English Teacher
+
+certifications:
+  title: Certifications
+  
+  list:
+
+    - name: Google IT Automation with Python
+    
+      start: 2021
+      
+      end: 2021
+      
+      organization: Coursera
+      
+      details: | 
+        Completed 6 course specialization covering Python basics, Git/GitHub, IT automation, etc. 
+        Developed skills in Python coding, automation, and IT tools.
+
+    - name: Google Data Analytics Certificate
+
+      start: 2022
+      
+      end: 2022
+       
+      organization: Coursera
+       
+      details: |
+        Completed full certificate program including 6 courses on data analysis, SQL, Tableau, data ethics, etc. 
+        Learned to organize, analyze, visualize and extrapolate insights from data.
+
+    - name: Neural Networks and Deep Learning
+
+      start: 2022
+      
+      end: 2022
+       
+      organization: Coursera
+      
+      details: |
+        Deep learning specialization course covering neural networks, PyTorch, convolutional/recurrent nets, etc. 
+        Developed skills in deep learning fundamentals and PyTorch framework.
 
 projects:
     title: Projects
